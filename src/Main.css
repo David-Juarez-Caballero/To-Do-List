@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0.5rem;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium';
+}
+ 
+body{
+    background-color: #ffffff;
+    background-image:  linear-gradient(#ff6f6f8d 3.6px, transparent 3.6px), linear-gradient(90deg, #ff6f6f8d  3.6px, transparent 3.6px), linear-gradient(#6fd1ff8c 1.8px, transparent 1.8px), linear-gradient(90deg, #6fd1ff8c 1.8px, #ffffff 1.8px);
+    background-size: 90px 90px, 90px 90px, 18px 18px, 18px 18px;
+    background-position: -3.6px -3.6px, -3.6px -3.6px, -1.8px -1.8px, -1.8px -1.8px;
+}
+
+.singleTask {
+    
+    font-family: 'Franklin Gothic Medium';
+    font-size: large;
+    font-weight: 500;
+}
+.remove{
+    margin-left: 1rem;
+}
+
+.search_task {
+    font-size: medium;
+}
